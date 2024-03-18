@@ -13,3 +13,5 @@ Nguyễn Thiên Ân  C2200018
 Nguyễn Hữu Đức   S2200001
 
 Nguyễn Văn Lập   B2203509 
+
+Ghi chú: Tuần 15 thi giữa kì.
