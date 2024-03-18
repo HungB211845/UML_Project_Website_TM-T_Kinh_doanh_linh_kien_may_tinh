@@ -15,4 +15,4 @@ Nhiệm vụ:
 Hoàn chỉnh mô hình dữ liệu vật lý
 Mô hình dữ liệu luận lý
 Hoàn chỉnh ràng buộc tham chiếu
-Các phương thức
+Mô tả các phương thức
