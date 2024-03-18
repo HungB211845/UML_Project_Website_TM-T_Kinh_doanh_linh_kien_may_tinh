@@ -13,6 +13,6 @@ Ghi chú: Tuần 15 thi giữa kì.
 
 Nhiệm vụ:
 Hoàn chỉnh mô hình dữ liệu vật lý
-Hoàn chỉnh ràng buộc tham chiếu
 Mô hình dữ liệu luận lý
+Hoàn chỉnh ràng buộc tham chiếu
 Các phương thức
