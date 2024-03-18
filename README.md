@@ -12,7 +12,7 @@ Nguyễn Văn Lập   B2203509
 Ghi chú: Tuần 15 thi giữa kì.
 
 Nhiệm vụ:
-Hoàn chỉnh mô hình dữ liệu vật lý
 Mô hình dữ liệu luận lý
+Hoàn chỉnh mô hình dữ liệu vật lý
 Hoàn chỉnh ràng buộc tham chiếu
 Mô tả các phương thức
